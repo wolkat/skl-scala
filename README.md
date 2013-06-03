@@ -1,7 +1,7 @@
 [SKL] Scala - Wprawki
 =========
 
-Start
+Start:
 - (1) - definiowanie funkcji 
 - (2) - ramka, kwadrat, trójkąt 
 - (3) - rekurencja (dlugosc listy), piramida z alfabetu
