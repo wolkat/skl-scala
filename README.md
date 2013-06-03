@@ -1,4 +1,4 @@
-skl-scala
+[SKL] Scala - Wprawki
 =========
 
-Wprawki, Scala
+
